@@ -45,6 +45,12 @@ Les tests montrent une excellente séparation des clusters (Silhouette Score > 0
 
 ---
 
+# Demo images   
+<img width="1862" height="952" alt="image" src="https://github.com/user-attachments/assets/22b841b4-ed74-4c6d-8194-f8335a6a5aab" />  
+<img width="1862" height="952" alt="image" src="https://github.com/user-attachments/assets/7ff21211-3cd4-423d-8f51-faf3225422ec" />
+
+
+
 ### Etaps Globales
 ```bash
 # 1. Installer les dépendances
