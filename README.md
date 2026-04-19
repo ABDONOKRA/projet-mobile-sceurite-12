@@ -65,3 +65,7 @@ python test_pipeline.py
 
 # 4. Lancer le dashboard Streamlit
 streamlit run dashboard/streamlit_app.py
+```
+
+# DEMO VIDEO :
+https://github.com/ABDONOKRA/projet-mobile-sceurite-12/issues/1
