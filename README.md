@@ -45,7 +45,7 @@ Les tests montrent une excellente séparation des clusters (Silhouette Score > 0
 
 ---
 
-### Commandes rapides pour le professeur
+### Etaps Globales
 ```bash
 # 1. Installer les dépendances
 pip install -r requirements.txt
