@@ -1,7 +1,7 @@
 # 🔐 Rapport de Projet : Mobile API Misuse Detector
 
 **Cours :** Sécurité Mobile  
-**Binôme :** Ennoukra Abdelghafour & Hicham Eddrouckat  
+**Binôme :** Ennoukra Abdelghafour & Yassine SALIHI  
 **Institution :** École Marocaine des Sciences de l'Ingénieur (EMSI)  
 
 ---
