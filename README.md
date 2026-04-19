@@ -67,5 +67,5 @@ python test_pipeline.py
 streamlit run dashboard/streamlit_app.py
 ```
 
-# DEMO VIDEO :
+# DEMO VIDEO :   
 https://github.com/ABDONOKRA/projet-mobile-sceurite-12/issues/1
