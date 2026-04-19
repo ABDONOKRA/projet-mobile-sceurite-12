@@ -70,4 +70,4 @@ streamlit run dashboard/streamlit_app.py
 # DEMO VIDEO :   
 
 
-https://github.com/ABDONOKRA/projet-mobile-sceurite-12/issues/1
+https://github.com/user-attachments/assets/d7f6b523-3de5-4d2e-9963-2445c52558e0
